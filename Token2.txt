@@ -45,7 +45,7 @@ systemctl enable nginx
 apt-get install -y git
 curl -sL https://deb.nodesource.com/setup_18.x | sudo -E bash -
 apt-get install -y nodejs
-git clone https://github.com/sudip7407/Repo1.git
+git clone https://github.com/BirajKarfa/Repo1.git
 cd Repo1
 npm install
 node index.js
